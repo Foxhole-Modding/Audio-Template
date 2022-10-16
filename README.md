@@ -5,6 +5,8 @@ All of the assets are reconstructed from the unpacked asset data meaning that th
 
 Use is as simple as opening the `War.uproject`!
 
+My suggestion to use this is to create a new project and copy only the assets that you need. In order to replicate the sound as close as possible, I highly suggest that you copy the submixes and the sound classes too.
+
 ## Commit Tags
 There are 3 types of commits that will be made to inform when you might want to upgrade to the newest version of the template:
 * **MAJOR**: When you absolutely MUST upgrade to the newest. This will likely be for major game updates.
